@@ -7,7 +7,7 @@ public class SnakeAndLadder {
     static List<String> players;
     static List<Snake> snakes;
     static List<Ladder> ladders;
-    final static int boardSize = 10;
+    final static int boardSize = 100;
     static boolean finish;
     static Map<String,Integer> positions;
     public SnakeAndLadder(){
